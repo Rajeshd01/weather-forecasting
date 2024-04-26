@@ -15,11 +15,15 @@ In this project, we are concentrating on the temperature prediction of Kanpur ci
 
 Historical Weather Dataset of Kanpur City:
 
-(![image](https://github.com/Rajeshd01/weather-forecasting/assets/97429910/a6d335b0-d004-486b-a4cd-6903462d1e9d)
+![image](https://github.com/Rajeshd01/weather-forecasting/assets/97429910/a6d335b0-d004-486b-a4cd-6903462d1e9d)
 
 Plot for each factor for 10 years
-![image](https://user-images.githubusercontent.com/52596651/125589135-ae1bb587-359c-4230-827d-c04f79619f9a.png)
+
+![image](https://github.com/Rajeshd01/weather-forecasting/assets/97429910/fa1e39a9-87a7-45c3-b777-0d6a95b7fa7a)
+
+
 Plot for each factor for 1 year
+
 ![image](https://user-images.githubusercontent.com/52596651/125589162-07544c53-1553-4970-a7ae-603e85743cec.png)
 
 ![image](https://user-images.githubusercontent.com/52596651/125589327-8dfe449d-edda-4d8e-b61d-f24bc32fb656.png)
