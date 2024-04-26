@@ -14,7 +14,8 @@ The main target of this dataset can be used to predict the weather for the next 
 In this project, we are concentrating on the temperature prediction of Kanpur city with the help of various machine learning algorithms and various regressions. By applying various regressions on the historical weather dataset of Kanpur city we are predicting the temperature like first we are applying Multiple Linear regression, then Decision Tree regression, and after that, we are applying Random Forest Regression.
 
 Historical Weather Dataset of Kanpur City:
-![image](https://user-images.githubusercontent.com/52596651/125589083-a7755810-3748-4087-a412-5b69301a7c20.png)
+![image](![image](https://github.com/Rajeshd01/weather-forecasting/assets/97429910/6e73ea94-ebb4-4a65-adee-d8c34f6652d1)
+)
 Plot for each factor for 10 years
 ![image](https://user-images.githubusercontent.com/52596651/125589135-ae1bb587-359c-4230-827d-c04f79619f9a.png)
 Plot for each factor for 1 year
