@@ -24,21 +24,40 @@ Plot for each factor for 10 years
 
 Plot for each factor for 1 year
 
-![image](https://user-images.githubusercontent.com/52596651/125589162-07544c53-1553-4970-a7ae-603e85743cec.png)
+![image](https://github.com/Rajeshd01/weather-forecasting/assets/97429910/24e4ce74-81cd-43fd-bec4-11159504bdb0)
 
-![image](https://user-images.githubusercontent.com/52596651/125589327-8dfe449d-edda-4d8e-b61d-f24bc32fb656.png)
+
+![image](https://github.com/Rajeshd01/weather-forecasting/assets/97429910/5ed2ae24-aeff-4383-8fcd-581262e7ff17)
+
 
 # Multiple Linear Regression: 
 This regression model has high mean absolute error, hence turned out to be the least accurate model. Given below is a snapshot of the actual result from the project implementation of multiple linear regression. 
- ![image](https://user-images.githubusercontent.com/52596651/125589488-ccf7afe4-25a5-4f86-be31-fed1e77a75bb.png)
+
+ ![image](https://github.com/Rajeshd01/weather-forecasting/assets/97429910/42b599e0-55df-4986-b7f1-0ed1c7746fbb)
+
 
 # Decision Tree Regression: 
 This regression model has medium mean absolute error, hence turned out to be the little accurate model. Given below is a snapshot of the actual result from the project implementation of multiple linear regression. 
-![image](https://user-images.githubusercontent.com/52596651/125589533-3e4493cc-875f-4308-8900-ec5a96a9781c.png)
 
+![image](https://github.com/Rajeshd01/weather-forecasting/assets/97429910/29eb7821-164c-43de-bbfd-df67011b1cae)
 
 # Random Forest Regression: 
 This regression model has low mean absolute error, hence turned out to be the more accurate model. Given below is a snapshot of the actual result from the project implementation of multiple linear regression. 
-![image](https://user-images.githubusercontent.com/52596651/125589563-082ac697-da74-40ac-81d6-08ecb51f766a.png)
+
+![image](https://github.com/Rajeshd01/weather-forecasting/assets/97429910/8f0879f2-1c1d-4a3d-8248-f6f948aa13ac)
+
+# R2-score for Multiple Linear Regression:
+
+![image](https://github.com/Rajeshd01/weather-forecasting/assets/97429910/2e48d676-9f06-49fc-a8e6-5a09b94acde0)
+
+# R2-score for Decision Tree Regression:
+
+![image](https://github.com/Rajeshd01/weather-forecasting/assets/97429910/3a5123e2-3ed7-450c-bf2e-142d273c749c)
+
+# R2-score for Random Forest Regression:
+
+![image](https://github.com/Rajeshd01/weather-forecasting/assets/97429910/c7078901-001b-405d-9818-b5b68c7c17e5)
+
+
 
 
